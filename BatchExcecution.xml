@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite preserve-order="true" thread-count="2" name="Suite">
+  <test thread-count="2" name="BatchExecution">
+    <classes>
+      <class name="JenkinsExecution.Script01"/>
+      <class name="JenkinsExecution.Script03"/>
+      <class name="JenkinsExecution.Script02"/>
+    </classes>
+  </test> <!-- BatchExecution -->
+</suite> <!-- Suite -->
