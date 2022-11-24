@@ -10,7 +10,7 @@ public class Script03 {
 		
 	}
 	
-	@Test(groups = "smoke")
+	@Test
 	public void test07() {
 		System.out.println("**** test 07 ****");
 		
