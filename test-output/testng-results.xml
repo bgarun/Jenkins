@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T12:11:51 IST" name="Suite" finished-at="2022-11-24T12:11:52 IST" duration-ms="306">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T12:11:51 IST" name="BatchExecution" finished-at="2022-11-24T12:11:52 IST" duration-ms="306">
+      <class name="JenkinsExecution.Script03">
+        <test-method signature="test06()[pri:0, instance:JenkinsExecution.Script03@6d4e5011]" started-at="2022-11-24T12:11:51 IST" name="test06" finished-at="2022-11-24T12:11:51 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test06 -->
+        <test-method signature="test07()[pri:0, instance:JenkinsExecution.Script03@6d4e5011]" started-at="2022-11-24T12:11:51 IST" name="test07" finished-at="2022-11-24T12:11:51 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test07 -->
+      </class> <!-- JenkinsExecution.Script03 -->
+      <class name="JenkinsExecution.Script01">
+        <test-method signature="test01()[pri:0, instance:JenkinsExecution.Script01@37654521]" started-at="2022-11-24T12:11:51 IST" name="test01" finished-at="2022-11-24T12:11:51 IST" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method signature="test02()[pri:0, instance:JenkinsExecution.Script01@37654521]" started-at="2022-11-24T12:11:51 IST" name="test02" finished-at="2022-11-24T12:11:51 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test02 -->
+        <test-method signature="test03()[pri:0, instance:JenkinsExecution.Script01@37654521]" started-at="2022-11-24T12:11:51 IST" name="test03" finished-at="2022-11-24T12:11:51 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test03 -->
+      </class> <!-- JenkinsExecution.Script01 -->
+      <class name="JenkinsExecution.Script02">
+        <test-method signature="test04()[pri:0, instance:JenkinsExecution.Script02@57d7f8ca]" started-at="2022-11-24T12:11:52 IST" name="test04" finished-at="2022-11-24T12:11:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test04 -->
+        <test-method signature="test05()[pri:0, instance:JenkinsExecution.Script02@57d7f8ca]" started-at="2022-11-24T12:11:52 IST" name="test05" finished-at="2022-11-24T12:11:52 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test05 -->
+      </class> <!-- JenkinsExecution.Script02 -->
+    </test> <!-- BatchExecution -->
+  </suite> <!-- Suite -->
+</testng-results>
